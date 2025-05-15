@@ -1,16 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Jun 21 16:38:13 2024
 
-@author: JT
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jun 20 22:30:19 2024
-
-@author: JT
-"""
 
 import numpy as np
 import streamlit as st
